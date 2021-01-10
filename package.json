@@ -1,5 +1,5 @@
 {
-  "name": "types",
+  "name": "@any-style/types",
   "version": "1.0.0",
   "types": "src/global.d.ts",
   "main": "src/module.js"

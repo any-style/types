@@ -24,10 +24,6 @@ declare function desc(desc: string): void;
  */
 declare function run(fn: (ctx: MainContext) => void): void;
 
-//
-// END of global API
-//
-
 /**
  * Represents source code that rule is running against.
  *
